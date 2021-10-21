@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "title": "Twitter Analytics",
+    "description": "Twitter conversion tracking tag script injection.",
+    "includes": [
+        "FOOTER_INJECTION.twitter-analytics-script.html"
+    ],
+    "fields": [
+        {
+            "field": "params.pixel_id",
+            "label": "Twitter Pixel ID",
+            "placeholder": "Pixel ID assigned by Twitter."
+        },
+        {
+            "field": "params.standard_event",
+            "label": "Tag Event",
+            "placeholder": "Standard event to be tagged (i.e. PageView)"
+        }
+    ]
+  }
