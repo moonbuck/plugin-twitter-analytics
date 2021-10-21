@@ -3,7 +3,7 @@
     "title": "Twitter Analytics",
     "description": "Twitter conversion tracking tag script injection.",
     "includes": [
-        "FOOTER_INJECTION.twitter-analytics-script.html"
+        "BELOW_FOOTER.twitter-analytics-script.html"
     ],
     "fields": [
         {
